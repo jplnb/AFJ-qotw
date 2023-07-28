@@ -12,7 +12,6 @@ $(async function(){
         
         // Set quote
         $("#quote").text("\"" + quote_csv[line][1] + "\"");
-        $("#quote").css("font-size", "28pt");
         
         // Set author
         $("#author").text("- " + quote_csv[line][2]);
