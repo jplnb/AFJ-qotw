@@ -1,14 +1,14 @@
 h3 {
     /* quote of the week title */
     font-family: "Segoe UI", sans-serif;
-    font-size: 24pt;
+    font-size: 24px;
     text-align: center;
 }
 
 p {
     /* quote, author, and failure msg */
     font-family: "Segoe UI", sans-serif;
-    font-size: 18pt;
+    font-size: 18px;
     text-align: center;
 }
 
