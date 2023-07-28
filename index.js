@@ -1,6 +1,6 @@
 $(async function(){
     // Fetch quote csv file
-    let gsheet_response = await fetch("https://docs.google.com/spreadsheets/d/1m--lRzYCRpP2PZXx6xtNVDErA7Xd7a9uj-6uQP1yLQE/export?format=csv");
+    let gsheet_response = await fetch("https://docs.google.com/spreadsheets/d/17X0qAvHSblLjCMv6nugW8-He2MmOBQNjZnPD7XLWHu4/export?format=csv");
     
     if(gsheet_response.ok) {
         // Parse csv
