@@ -4,7 +4,7 @@ A very simple webpage that fetches a quote and author from a Google Sheet depend
 Uses [jQuery][jq], [jquery-csv][jqc], and [Day.js][dj], which are all under the MIT license.
 
 Embed HTML snippet
-==================
+------------------
 
     <iframe src="https://jplnb.github.io/AFJ-qotw/" width="600" height="400" title="Quote of the Week"></iframe>
 
